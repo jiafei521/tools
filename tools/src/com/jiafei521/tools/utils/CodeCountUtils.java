@@ -1,4 +1,4 @@
-package src.com.jiafei521.tools.utils;
+package com.jiafei521.tools.utils;
 
 import java.io.BufferedReader;
 import java.io.File;
